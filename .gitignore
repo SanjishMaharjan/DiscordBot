@@ -1,0 +1,36 @@
+# Go binary files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build directory
+/bin
+/build
+
+# Dependency directories
+/vendor/
+
+# Environment variables file
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Go module cache
+.gomod/
+.gomodulecache/
